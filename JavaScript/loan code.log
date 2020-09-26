@@ -1,0 +1,2 @@
+if (income === <30000 && debtIncomeRatio <50%) {
+VM1837:1 Uncaught SyntaxError: Unexpected token '<'
